@@ -3819,7 +3819,16 @@
       "linkInsert": "Inserisci",
       "linkRemove": "Rimuovi",
       "linkCancel": "Annulla",
-      "codeCopyTooltip": "Copia il codice"
+      "codeCopyTooltip": "Copia il codice",
+      "imagePlaceholder": "Aggiungi un'immagine",
+      "embedImage": "Incorpora immagine",
+      "tabHeaderUpload": "Carica",
+      "tabHeaderEmbed": "Incorpora collegamento",
+      "embedPlaceholder": "Incolla il collegamento dell'immagine...",
+      "imgPlaceholderAriaLabel": "Inserisci immagine: premi Invio o Spazio per aprire la finestra di dialogo di caricamento",
+      "badgeSuccess": "Successo",
+      "badgeError": "Errore",
+      "imageUrl": "Immissione dell'URL dell'immagine"
     },
     "speech-to-text": {
       "abortedError": "Il riconoscimento vocale è stato interrotto.",
@@ -3837,6 +3846,18 @@
     },
     "splitter": {
       "ToggleNavigation": "Attiva/disattiva navigazione"
+    },
+    "inline-ai-prompt": {
+      "send": "Invia",
+      "stopResponseText": "Smetti di rispondere",
+      "thinkingIndicator": "Pensare",
+      "editingIndicator": "Modifica"
+    },
+    "inline-ai-assist": {
+      "send": "Invia",
+      "stopResponseText": "Smetti di rispondere",
+      "thinkingIndicator": "Pensare",
+      "editingIndicator": "Modifica"
     }
   }
 }

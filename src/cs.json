@@ -922,8 +922,8 @@
       "Access-Message": "{0} není přístupný. K provedení akce {1} potřebujete povolení.",
       "Network-Error": "NetworkError: Nepodařilo se odeslat na XMLHTTPRequest: Nepodařilo se načíst",
       "Server-Error": "ServerError: Neplatná odpověď od",
-       "File": "Soubor",
-       "Folder" : "složka"
+      "File": "Soubor",
+      "Folder": "složka"
     },
     "calendar": {
       "today": "Dnes"
@@ -3817,7 +3817,16 @@
       "linkInsert": "Vložit",
       "linkRemove": "Odebrat",
       "linkCancel": "Zrušit",
-      "codeCopyTooltip": "Kopírovat kód"
+      "codeCopyTooltip": "Kopírovat kód",
+      "imagePlaceholder": "Přidejte obrázek",
+      "embedImage": "Vložit obrázek",
+      "tabHeaderUpload": "Nahrát",
+      "tabHeaderEmbed": "Vložit odkaz",
+      "embedPlaceholder": "Vložte odkaz na obrázek...",
+      "imgPlaceholderAriaLabel": "Vložit obrázek – stisknutím klávesy Enter nebo mezerníku otevřete dialogové okno pro nahrávání",
+      "badgeSuccess": "Úspěch",
+      "badgeError": "Chyba",
+      "imageUrl": "Zadání adresy URL obrázku"
     },
     "speech-to-text": {
       "abortedError": "Rozpoznávání řeči bylo přerušeno.",
@@ -3835,6 +3844,18 @@
     },
     "splitter": {
       "ToggleNavigation": "Přepnout navigaci"
+    },
+    "inline-ai-prompt": {
+      "send": "Odeslat",
+      "stopResponseText": "Přestat reagovat",
+      "thinkingIndicator": "myšlení",
+      "editingIndicator": "Editace"
+    },
+    "inline-ai-assist": {
+      "send": "Odeslat",
+      "stopResponseText": "Přestat reagovat",
+      "thinkingIndicator": "myšlení",
+      "editingIndicator": "Editace"
     }
   }
 }

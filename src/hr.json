@@ -3818,7 +3818,16 @@
       "linkInsert": "Ubacite",
       "linkRemove": "Ukloniti",
       "linkCancel": "Odustani",
-      "codeCopyTooltip": "Kopiraj kod"
+      "codeCopyTooltip": "Kopiraj kod",
+      "imagePlaceholder": "Dodajte sliku",
+      "embedImage": "Ugradi sliku",
+      "tabHeaderUpload": "Upload",
+      "tabHeaderEmbed": "Ugradi vezu",
+      "embedPlaceholder": "Zalijepite link slike...",
+      "imgPlaceholderAriaLabel": "Umetni sliku - pritisnite Enter ili Space za otvaranje dijaloškog okvira za učitavanje",
+      "badgeSuccess": "Uspjeh",
+      "badgeError": "Greška",
+      "imageUrl": "Unos URL-a slike"
     },
     "speech-to-text": {
       "abortedError": "Prepoznavanje govora je prekinuto.",
@@ -3836,6 +3845,18 @@
     },
     "splitter": {
       "ToggleNavigation": "Uključi/isključi navigaciju"
+    },
+    "inline-ai-prompt": {
+      "send": "poslati",
+      "stopResponseText": "Prestani odgovarati",
+      "thinkingIndicator": "Razmišljanje",
+      "editingIndicator": "Uređivanje"
+    },
+    "inline-ai-assist": {
+      "send": "poslati",
+      "stopResponseText": "Prestani odgovarati",
+      "thinkingIndicator": "Razmišljanje",
+      "editingIndicator": "Uređivanje"
     }
   }
 }

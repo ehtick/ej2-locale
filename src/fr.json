@@ -2711,13 +2711,13 @@
       "More Options": "Plus d'options",
       "Click to see this comment": "Cliquez pour voir ce commentaire",
       "Drop Down Form Field": "Champ de formulaire déroulant",
-      "Dropdown items": "Articles déroulants",
-      "Items in dropdown list": "Éléments dans la liste déroulante",
+      "Drop-down items": "Éléments déroulants",
+      "Items in drop-down list": "Éléments dans la liste déroulante",
       "ADD": "AJOUTER",
       "REMOVE": "RETIRER",
       "Field settings": "Réglages sur place",
       "Tooltip": "Info-bulle",
-      "Dropdown enabled": "Liste déroulante activée",
+      "Drop-down enabled": "Liste déroulante activée",
       "Check Box Form Field": "Champ de formulaire de case à cocher",
       "Check box size": "Cochez la taille",
       "Auto": "Automatique",
@@ -3883,7 +3883,16 @@
       "linkInsert": "Insérer",
       "linkRemove": "Supprimer",
       "linkCancel": "Annuler",
-      "codeCopyTooltip": "Copier le code"
+      "codeCopyTooltip": "Copier le code",
+      "imagePlaceholder": "Ajouter une image",
+      "embedImage": "Intégrer l'image",
+      "tabHeaderUpload": "Télécharger",
+      "tabHeaderEmbed": "Lien intégré",
+      "embedPlaceholder": "Collez le lien de l'image...",
+      "imgPlaceholderAriaLabel": "Insérer une image - appuyez sur Entrée ou Espace pour ouvrir la boîte de dialogue de téléchargement",
+      "badgeSuccess": "Succès",
+      "badgeError": "Erreur",
+      "imageUrl": "Saisie de l'URL de l'image"
     },
     "speech-to-text": {
       "abortedError": "La reconnaissance vocale a été interrompue.",
@@ -3901,6 +3910,18 @@
     },
     "splitter": {
       "ToggleNavigation": "Basculer la navigation"
+    },
+    "inline-ai-prompt": {
+      "send": "Envoyer",
+      "stopResponseText": "Arrêter de répondre",
+      "thinkingIndicator": "Penser",
+      "editingIndicator": "Édition"
+    },
+    "inline-ai-assist": {
+      "send": "Envoyer",
+      "stopResponseText": "Arrêter de répondre",
+      "thinkingIndicator": "Penser",
+      "editingIndicator": "Édition"
     }
   }
 }

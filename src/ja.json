@@ -3818,7 +3818,16 @@
       "linkInsert": "挿入",
       "linkRemove": "削除",
       "linkCancel": "キャンセル",
-      "codeCopyTooltip": "コードをコピーする"
+      "codeCopyTooltip": "コードをコピーする",
+      "imagePlaceholder": "画像を追加する",
+      "embedImage": "画像を埋め込む",
+      "tabHeaderUpload": "アップロード",
+      "tabHeaderEmbed": "リンクを埋め込む",
+      "embedPlaceholder": "画像のリンクを貼り付けます...",
+      "imgPlaceholderAriaLabel": "画像を挿入 - Enter または Space を押してアップロード ダイアログを開きます",
+      "badgeSuccess": "成功",
+      "badgeError": "エラー",
+      "imageUrl": "画像URL入力"
     },
     "speech-to-text": {
       "abortedError": "音声認識が中止されました。",
@@ -3836,6 +3845,18 @@
     },
     "splitter": {
       "ToggleNavigation": "ナビゲーションを切り替え"
+    },
+    "inline-ai-prompt": {
+      "send": "送信",
+      "stopResponseText": "応答を停止する",
+      "thinkingIndicator": "考える",
+      "editingIndicator": "編集"
+    },
+    "inline-ai-assist": {
+      "send": "送信",
+      "stopResponseText": "応答を停止する",
+      "thinkingIndicator": "考える",
+      "editingIndicator": "編集"
     }
   }
 }

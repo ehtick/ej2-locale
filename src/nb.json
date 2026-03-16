@@ -3818,7 +3818,16 @@
       "linkInsert": "Sett inn",
       "linkRemove": "Fjern",
       "linkCancel": "Avbryt",
-      "codeCopyTooltip": "Kopier koden"
+      "codeCopyTooltip": "Kopier koden",
+      "imagePlaceholder": "Legg til et bilde",
+      "embedImage": "Bygg inn bilde",
+      "tabHeaderUpload": "Last opp",
+      "tabHeaderEmbed": "Bygg inn lenke",
+      "embedPlaceholder": "Lim inn bildelinken...",
+      "imgPlaceholderAriaLabel": "Sett inn bilde - trykk på Enter eller Space for å åpne opplastingsdialogen",
+      "badgeSuccess": "Suksess",
+      "badgeError": "Feil",
+      "imageUrl": "Bilde-URL-inndata"
     },
     "speech-to-text": {
       "abortedError": "Talegjenkjenning ble avbrutt.",
@@ -3836,6 +3845,18 @@
     },
     "splitter": {
       "ToggleNavigation": "Slå på navigering"
+    },
+    "inline-ai-prompt": {
+      "send": "Send",
+      "stopResponseText": "Slutt å svare",
+      "thinkingIndicator": "Tenker",
+      "editingIndicator": "Redigering"
+    },
+    "inline-ai-assist": {
+      "send": "Send",
+      "stopResponseText": "Slutt å svare",
+      "thinkingIndicator": "Tenker",
+      "editingIndicator": "Redigering"
     }
   }
 }

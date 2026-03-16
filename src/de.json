@@ -921,7 +921,7 @@
       "Access-Message": "{0} ist nicht zugänglich. Sie benötigen die Berechtigung, um die Aktion {1} auszuführen.",
       "Network-Error": "NetworkError: Fehler beim Senden auf XMLHTTPRequest: Fehler beim Laden",
       "Server-Error": "ServerError: Ungültige Antwort von",
-      "File" : "Datei",
+      "File": "Datei",
       "Folder": "Ordner"
     },
     "calendar": {
@@ -2709,13 +2709,13 @@
       "More Options": "Mehr Optionen",
       "Click to see this comment": "Klicken Sie hier, um diesen Kommentar anzuzeigen",
       "Drop Down Form Field": "Dropdown-Formularfeld",
-      "Dropdown items": "Dropdown-Elemente",
-      "Items in dropdown list": "Elemente in der Dropdown-Liste",
+      "Drop-down items": "Dropdown-Elemente",
+      "Items in drop-down list": "Elemente in der Dropdown-Liste",
       "ADD": "HINZUFÜGEN",
       "REMOVE": "ENTFERNEN",
       "Field settings": "Feldeinstellungen",
       "Tooltip": "Kurzinfo",
-      "Dropdown enabled": "Dropdown aktiviert",
+      "Drop-down enabled": "Dropdown aktiviert",
       "Check Box Form Field": "Kontrollkästchen Formularfeld",
       "Check box size": "Kontrollkästchengröße",
       "Auto": "Automatisch",
@@ -3881,7 +3881,16 @@
       "linkInsert": "Einfügen",
       "linkRemove": "Entfernen",
       "linkCancel": "Abbrechen",
-      "codeCopyTooltip": "Code kopieren"
+      "codeCopyTooltip": "Code kopieren",
+      "imagePlaceholder": "Fügen Sie ein Bild hinzu",
+      "embedImage": "Bild einbetten",
+      "tabHeaderUpload": "Hochladen",
+      "tabHeaderEmbed": "Link einbetten",
+      "embedPlaceholder": "Den Bildlink einfügen...",
+      "imgPlaceholderAriaLabel": "Bild einfügen – Drücken Sie die Eingabetaste oder die Leertaste, um den Upload-Dialog zu öffnen",
+      "badgeSuccess": "Erfolg",
+      "badgeError": "Fehler",
+      "imageUrl": "Eingabe der Bild-URL"
     },
     "speech-to-text": {
       "abortedError": "Die Spracherkennung wurde abgebrochen.",
@@ -3899,6 +3908,18 @@
     },
     "splitter": {
       "ToggleNavigation": "Navigation umschalten"
+    },
+    "inline-ai-prompt": {
+      "send": "Senden",
+      "stopResponseText": "Hören Sie auf zu antworten",
+      "thinkingIndicator": "Denken",
+      "editingIndicator": "Bearbeiten"
+    },
+    "inline-ai-assist": {
+      "send": "Senden",
+      "stopResponseText": "Hören Sie auf zu antworten",
+      "thinkingIndicator": "Denken",
+      "editingIndicator": "Bearbeiten"
     }
   }
 }

@@ -3820,24 +3820,45 @@
       "linkInsert": "Insertar",
       "linkRemove": "Quitar",
       "linkCancel": "Cancelar",
-      "codeCopyTooltip": "Copiar código"
+      "codeCopyTooltip": "Copiar código",
+      "imagePlaceholder": "Añadir una imagen",
+      "embedImage": "Insertar imagen",
+      "tabHeaderUpload": "Subir",
+      "tabHeaderEmbed": "Insertar enlace",
+      "embedPlaceholder": "Pega el enlace de la imagen...",
+      "imgPlaceholderAriaLabel": "Insertar imagen: presione Entrar o Espacio para abrir el cuadro de diálogo de carga",
+      "badgeSuccess": "Éxito",
+      "badgeError": "error",
+      "imageUrl": "Entrada de URL de imagen"
     },
     "speech-to-text": {
-        "abortedError": "Se canceló el reconocimiento de voz.",
-        "audioCaptureError": "No se detectó ningún micrófono. Asegúrese de que su micrófono esté conectado.",
-        "defaultError": "Se produjo un error desconocido.",
-        "networkError": "Se produjo un error de red. Verifique su conexión a Internet.",
-        "noSpeechError": "No se detectó ninguna voz. Por favor hable por el micrófono.",
-        "notAllowedError": "Acceso al micrófono denegado. Permitir permisos de micrófono.",
-        "serviceNotAllowedError": "El servicio de reconocimiento de voz no está permitido en este contexto.",
-        "unsupportedBrowserError": "El navegador no es compatible con la API SpeechRecognition.",
-        "startAriaLabel": "Pulsa para empezar a hablar y transcribir tus palabras.",
-        "stopAriaLabel": "Presione para dejar de hablar y finalizar la transcripción.",
-        "startTooltipText": "Empezar a escuchar",
-        "stopTooltipText": "deja de escuchar"
+      "abortedError": "Se canceló el reconocimiento de voz.",
+      "audioCaptureError": "No se detectó ningún micrófono. Asegúrese de que su micrófono esté conectado.",
+      "defaultError": "Se produjo un error desconocido.",
+      "networkError": "Se produjo un error de red. Verifique su conexión a Internet.",
+      "noSpeechError": "No se detectó ninguna voz. Por favor hable por el micrófono.",
+      "notAllowedError": "Acceso al micrófono denegado. Permitir permisos de micrófono.",
+      "serviceNotAllowedError": "El servicio de reconocimiento de voz no está permitido en este contexto.",
+      "unsupportedBrowserError": "El navegador no es compatible con la API SpeechRecognition.",
+      "startAriaLabel": "Pulsa para empezar a hablar y transcribir tus palabras.",
+      "stopAriaLabel": "Presione para dejar de hablar y finalizar la transcripción.",
+      "startTooltipText": "Empezar a escuchar",
+      "stopTooltipText": "deja de escuchar"
     },
     "splitter": {
       "ToggleNavigation": "Alternar navegación"
+    },
+    "inline-ai-prompt": {
+      "send": "enviar",
+      "stopResponseText": "Deja de responder",
+      "thinkingIndicator": "Pensando",
+      "editingIndicator": "Edición"
+    },
+    "inline-ai-assist": {
+      "send": "enviar",
+      "stopResponseText": "Deja de responder",
+      "thinkingIndicator": "Pensando",
+      "editingIndicator": "Edición"
     }
   }
 }

@@ -3821,7 +3821,16 @@
       "linkInsert": "Inserați",
       "linkRemove": "Eliminați",
       "linkCancel": "Anulează",
-      "codeCopyTooltip": "Copiați codul"
+      "codeCopyTooltip": "Copiați codul",
+      "imagePlaceholder": "Adăugați o imagine",
+      "embedImage": "Încorporați imaginea",
+      "tabHeaderUpload": "Încărcați",
+      "tabHeaderEmbed": "Încorporați linkul",
+      "embedPlaceholder": "Lipiți linkul imaginii...",
+      "imgPlaceholderAriaLabel": "Inserați imaginea - apăsați Enter sau Space pentru a deschide dialogul de încărcare",
+      "badgeSuccess": "Succes",
+      "badgeError": "Eroare",
+      "imageUrl": "Intrarea URL a imaginii"
     },
     "speech-to-text": {
       "abortedError": "Recunoașterea vorbirii a fost întreruptă.",
@@ -3839,6 +3848,18 @@
     },
     "splitter": {
       "ToggleNavigation": "Comutați navigarea"
+    },
+    "inline-ai-prompt": {
+      "send": "Trimite",
+      "stopResponseText": "Nu mai răspunde",
+      "thinkingIndicator": "Gândirea",
+      "editingIndicator": "Editare"
+    },
+    "inline-ai-assist": {
+      "send": "Trimite",
+      "stopResponseText": "Nu mai răspunde",
+      "thinkingIndicator": "Gândirea",
+      "editingIndicator": "Editare"
     }
   }
 }

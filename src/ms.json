@@ -3818,7 +3818,16 @@
       "linkInsert": "Sisipkan",
       "linkRemove": "Alih keluar",
       "linkCancel": "Batal",
-      "codeCopyTooltip": "Salin kod"
+      "codeCopyTooltip": "Salin kod",
+      "imagePlaceholder": "Tambah imej",
+      "embedImage": "Benamkan imej",
+      "tabHeaderUpload": "Muat naik",
+      "tabHeaderEmbed": "Benamkan pautan",
+      "embedPlaceholder": "Tampal pautan gambar...",
+      "imgPlaceholderAriaLabel": "Sisipkan imej - tekan Enter atau Space untuk membuka dialog muat naik",
+      "badgeSuccess": "Kejayaan",
+      "badgeError": "ralat",
+      "imageUrl": "Input URL imej"
     },
     "speech-to-text": {
       "abortedError": "Pengecaman pertuturan telah digugurkan.",
@@ -3836,6 +3845,18 @@
     },
     "splitter": {
       "ToggleNavigation": "Togol Navigasi"
+    },
+    "inline-ai-prompt": {
+      "send": "Hantar",
+      "stopResponseText": "Berhenti Menjawab",
+      "thinkingIndicator": "Berfikir",
+      "editingIndicator": "Mengedit"
+    },
+    "inline-ai-assist": {
+      "send": "Hantar",
+      "stopResponseText": "Berhenti Menjawab",
+      "thinkingIndicator": "Berfikir",
+      "editingIndicator": "Mengedit"
     }
   }
 }

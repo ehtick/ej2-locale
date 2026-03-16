@@ -3697,7 +3697,16 @@
       "linkInsert": "Inserir",
       "linkRemove": "Remover",
       "linkCancel": "Cancelar",
-      "codeCopyTooltip": "Copiar código"
+      "codeCopyTooltip": "Copiar código",
+      "imagePlaceholder": "Adicione uma imagem",
+      "embedImage": "Incorporar imagem",
+      "tabHeaderUpload": "Carregar",
+      "tabHeaderEmbed": "Incorporar link",
+      "embedPlaceholder": "Cole o link da imagem...",
+      "imgPlaceholderAriaLabel": "Inserir imagem - pressione Enter ou Espaço para abrir a caixa de diálogo de upload",
+      "badgeSuccess": "Sucesso",
+      "badgeError": "Erro",
+      "imageUrl": "Entrada de URL de imagem"
     },
     "speech-to-text": {
       "abortedError": "O reconhecimento de fala foi abortado.",
@@ -3715,6 +3724,18 @@
     },
     "splitter": {
       "ToggleNavigation": "Alternar navegação"
+    },
+    "inline-ai-prompt": {
+      "send": "Enviar",
+      "stopResponseText": "Pare de responder",
+      "thinkingIndicator": "Pensando",
+      "editingIndicator": "Edição"
+    },
+    "inline-ai-assist": {
+      "send": "Enviar",
+      "stopResponseText": "Pare de responder",
+      "thinkingIndicator": "Pensando",
+      "editingIndicator": "Edição"
     }
   }
 }
