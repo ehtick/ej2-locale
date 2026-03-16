@@ -3819,7 +3819,16 @@
       "linkInsert": "Sätt in",
       "linkRemove": "Ta bort",
       "linkCancel": "Avbryt",
-      "codeCopyTooltip": "Kopiera kod"
+      "codeCopyTooltip": "Kopiera kod",
+      "imagePlaceholder": "Lägg till en bild",
+      "embedImage": "Bädda in bild",
+      "tabHeaderUpload": "Ladda upp",
+      "tabHeaderEmbed": "Bädda in länk",
+      "embedPlaceholder": "Klistra in bildlänken...",
+      "imgPlaceholderAriaLabel": "Infoga bild - tryck på Enter eller Mellanslag för att öppna uppladdningsdialogrutan",
+      "badgeSuccess": "Framgång",
+      "badgeError": "Fel",
+      "imageUrl": "Bildens URL-inmatning"
     },
     "speech-to-text": {
       "abortedError": "Taligenkänning avbröts.",
@@ -3837,6 +3846,18 @@
     },
     "splitter": {
       "ToggleNavigation": "Växla Navigation"
+    },
+    "inline-ai-prompt": {
+      "send": "Skicka",
+      "stopResponseText": "Sluta svara",
+      "thinkingIndicator": "Tänker",
+      "editingIndicator": "Redigering"
+    },
+    "inline-ai-assist": {
+      "send": "Skicka",
+      "stopResponseText": "Sluta svara",
+      "thinkingIndicator": "Tänker",
+      "editingIndicator": "Redigering"
     }
   }
 }

@@ -3820,7 +3820,16 @@
       "linkInsert": "घुसाउनुहोस्",
       "linkRemove": "हटाउनुहोस्",
       "linkCancel": "रद्द गर्नुहोस्",
-      "codeCopyTooltip": "कोड प्रतिलिपि गर्नुहोस्"
+      "codeCopyTooltip": "कोड प्रतिलिपि गर्नुहोस्",
+      "imagePlaceholder": "एउटा छवि थप्नुहोस्",
+      "embedImage": "छवि इम्बेड गर्नुहोस्",
+      "tabHeaderUpload": "अपलोड गर्नुहोस्",
+      "tabHeaderEmbed": "लिङ्क इम्बेड गर्नुहोस्",
+      "embedPlaceholder": "छवि लिङ्क टाँस्नुहोस्...",
+      "imgPlaceholderAriaLabel": "छवि घुसाउनुहोस् - अपलोड संवाद खोल्न इन्टर वा स्पेस थिच्नुहोस्",
+      "badgeSuccess": "सफलता",
+      "badgeError": "त्रुटि",
+      "imageUrl": "छवि URL इनपुट"
     },
     "speech-to-text": {
       "abortedError": "बोली पहिचान रद्द गरियो।",
@@ -3838,6 +3847,18 @@
     },
     "splitter": {
       "ToggleNavigation": "नेभिगेसन टगल गर्नुहोस्"
+    },
+    "inline-ai-prompt": {
+      "send": "पठाउनुहोस्",
+      "stopResponseText": "प्रतिक्रिया दिन रोक्नुहोस्",
+      "thinkingIndicator": "सोच्दै",
+      "editingIndicator": "सम्पादन गर्दै"
+    },
+    "inline-ai-assist": {
+      "send": "पठाउनुहोस्",
+      "stopResponseText": "प्रतिक्रिया दिन रोक्नुहोस्",
+      "thinkingIndicator": "सोच्दै",
+      "editingIndicator": "सम्पादन गर्दै"
     }
   }
 }

@@ -3821,7 +3821,16 @@
       "linkInsert": "삽입",
       "linkRemove": "제거",
       "linkCancel": "취소",
-      "codeCopyTooltip": "코드 복사"
+      "codeCopyTooltip": "코드 복사",
+      "imagePlaceholder": "이미지 추가",
+      "embedImage": "이미지 삽입",
+      "tabHeaderUpload": "업로드",
+      "tabHeaderEmbed": "링크 삽입",
+      "embedPlaceholder": "이미지 링크 붙여넣기...",
+      "imgPlaceholderAriaLabel": "이미지 삽입 - 업로드 대화상자를 열려면 Enter 또는 Space를 누르세요.",
+      "badgeSuccess": "성공",
+      "badgeError": "오류",
+      "imageUrl": "이미지 URL 입력"
     },
     "speech-to-text": {
       "abortedError": "음성 인식이 중단되었습니다.",
@@ -3839,6 +3848,18 @@
     },
     "splitter": {
       "ToggleNavigation": "탐색 전환"
+    },
+    "inline-ai-prompt": {
+      "send": "보내기",
+      "stopResponseText": "응답 중지",
+      "thinkingIndicator": "생각",
+      "editingIndicator": "편집"
+    },
+    "inline-ai-assist": {
+      "send": "보내기",
+      "stopResponseText": "응답 중지",
+      "thinkingIndicator": "생각",
+      "editingIndicator": "편집"
     }
   }
 }

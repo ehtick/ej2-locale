@@ -3643,7 +3643,16 @@
       "linkInsert": "Settu inn",
       "linkRemove": "Fjarlægja",
       "linkCancel": "Hætta við",
-      "codeCopyTooltip": "Afritaðu kóða"
+      "codeCopyTooltip": "Afritaðu kóða",
+      "imagePlaceholder": "Bættu við mynd",
+      "embedImage": "Fella inn mynd",
+      "tabHeaderUpload": "Hlaða upp",
+      "tabHeaderEmbed": "Fella inn tengil",
+      "embedPlaceholder": "Límdu myndtengilinn...",
+      "imgPlaceholderAriaLabel": "Setja inn mynd - ýttu á Enter eða bil til að opna upphleðslugluggann",
+      "badgeSuccess": "Árangur",
+      "badgeError": "Villa",
+      "imageUrl": "Inntak myndslóðar"
     },
     "speech-to-text": {
       "abortedError": "Talgreining var hætt.",
@@ -3661,6 +3670,18 @@
     },
     "splitter": {
       "ToggleNavigation": "Skiptu um leiðsögn"
+    },
+    "inline-ai-prompt": {
+      "send": "Senda",
+      "stopResponseText": "Hættu að svara",
+      "thinkingIndicator": "Að hugsa",
+      "editingIndicator": "Klippingu"
+    },
+    "inline-ai-assist": {
+      "send": "Senda",
+      "stopResponseText": "Hættu að svara",
+      "thinkingIndicator": "Að hugsa",
+      "editingIndicator": "Klippingu"
     }
   }
 }

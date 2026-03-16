@@ -2709,13 +2709,13 @@
       "More Options": "More Options",
       "Click to see this comment": "Click to see this comment",
       "Drop Down Form Field": "Drop Down Form Field",
-      "Dropdown items": "Drop-down items",
-      "Items in dropdown list": "Items in drop-down list",
+      "Drop-down items": "Drop-down items",
+      "Items in drop-down list": "Items in drop-down list",
       "ADD": "ADD",
       "REMOVE": "REMOVE",
       "Field settings": "Field settings",
       "Tooltip": "Tooltip",
-      "Dropdown enabled": "Drop-down enabled",
+      "Drop-down enabled": "Drop-down enabled",
       "Check Box Form Field": "Check Box Form Field",
       "Check box size": "Check box size",
       "Auto": "Auto",
@@ -3879,7 +3879,16 @@
       "linkInsert": "Insert",
       "linkRemove": "Remove",
       "linkCancel": "Cancel",
-      "codeCopyTooltip": "Copy code"
+      "codeCopyTooltip": "Copy code",
+      "imagePlaceholder": "Add an image",
+      "embedImage": "Embed image",
+      "tabHeaderUpload": "Upload",
+      "tabHeaderEmbed": "Embed link",
+      "embedPlaceholder": "Paste the image link...",
+      "imgPlaceholderAriaLabel": "Insert image - press Enter or Space to open upload dialog",
+      "badgeSuccess": "Success",
+      "badgeError": "Error",
+      "imageUrl": "Image URL input"
     },
     "speech-to-text": {
       "abortedError": "Speech recognition was aborted.",
@@ -3897,6 +3906,18 @@
     },
     "splitter": {
       "ToggleNavigation": "Toggle Navigation"
+    },
+    "inline-ai-prompt": {
+      "send": "Send",
+      "stopResponseText": "Stop Responding",
+      "thinkingIndicator": "Thinking",
+      "editingIndicator": "Editing"
+    },
+    "inline-ai-assist": {
+      "send": "Send",
+      "stopResponseText": "Stop Responding",
+      "thinkingIndicator": "Thinking",
+      "editingIndicator": "Editing"
     }
   }
 }

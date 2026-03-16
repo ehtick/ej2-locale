@@ -3818,7 +3818,16 @@
       "linkInsert": "ใส่",
       "linkRemove": "ลบ",
       "linkCancel": "ยกเลิก",
-      "codeCopyTooltip": "คัดลอกรหัส"
+      "codeCopyTooltip": "คัดลอกรหัส",
+      "imagePlaceholder": "เพิ่มรูปภาพ",
+      "embedImage": "ฝังรูปภาพ",
+      "tabHeaderUpload": "อัปโหลด",
+      "tabHeaderEmbed": "ฝังลิงค์",
+      "embedPlaceholder": "วางลิงค์รูปภาพ...",
+      "imgPlaceholderAriaLabel": "แทรกรูปภาพ - กด Enter หรือ Space เพื่อเปิดกล่องโต้ตอบการอัปโหลด",
+      "badgeSuccess": "ความสำเร็จ",
+      "badgeError": "เกิดข้อผิดพลาด",
+      "imageUrl": "อินพุต URL รูปภาพ"
     },
     "speech-to-text": {
       "abortedError": "การรู้จำเสียงถูกยกเลิก",
@@ -3836,6 +3845,18 @@
     },
     "splitter": {
       "ToggleNavigation": "สลับการนำทาง"
+    },
+    "inline-ai-prompt": {
+      "send": "ส่ง",
+      "stopResponseText": "หยุดการตอบสนอง",
+      "thinkingIndicator": "กำลังคิด",
+      "editingIndicator": "การแก้ไข"
+    },
+    "inline-ai-assist": {
+      "send": "ส่ง",
+      "stopResponseText": "หยุดการตอบสนอง",
+      "thinkingIndicator": "กำลังคิด",
+      "editingIndicator": "การแก้ไข"
     }
   }
 }

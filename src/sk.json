@@ -3818,7 +3818,16 @@
       "linkInsert": "Vložiť",
       "linkRemove": "Odstrániť",
       "linkCancel": "Zrušiť",
-      "codeCopyTooltip": "Kopírovať kód"
+      "codeCopyTooltip": "Kopírovať kód",
+      "imagePlaceholder": "Pridajte obrázok",
+      "embedImage": "Vložiť obrázok",
+      "tabHeaderUpload": "Nahrať",
+      "tabHeaderEmbed": "Vložiť odkaz",
+      "embedPlaceholder": "Vložte odkaz na obrázok...",
+      "imgPlaceholderAriaLabel": "Vložiť obrázok – stlačením klávesu Enter alebo medzerníka otvorte dialógové okno nahrávania",
+      "badgeSuccess": "Úspech",
+      "badgeError": "Chyba",
+      "imageUrl": "Zadanie webovej adresy obrázka"
     },
     "speech-to-text": {
       "abortedError": "Rozpoznávanie reči bolo prerušené.",
@@ -3836,6 +3845,18 @@
     },
     "splitter": {
       "ToggleNavigation": "Prepnúť navigáciu"
+    },
+    "inline-ai-prompt": {
+      "send": "Odoslať",
+      "stopResponseText": "Prestať reagovať",
+      "thinkingIndicator": "Myslenie",
+      "editingIndicator": "Úprava"
+    },
+    "inline-ai-assist": {
+      "send": "Odoslať",
+      "stopResponseText": "Prestať reagovať",
+      "thinkingIndicator": "Myslenie",
+      "editingIndicator": "Úprava"
     }
   }
 }

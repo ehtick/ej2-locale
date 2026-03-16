@@ -922,8 +922,8 @@
       "Access-Message": "{0} لا يمكن الوصول إليه. تحتاج إلى إذن لتنفيذ الإجراء {1}.",
       "Network-Error": "NetworkError: فشل الإرسال على XMLHTTPRequest: فشل التحميل",
       "Server-Error": "ServerError: استجابة غير صالحة من",
-       "File": "ملف",
-       "Folder": "مجلد"
+      "File": "ملف",
+      "Folder": "مجلد"
     },
     "calendar": {
       "today": "اليوم"
@@ -2710,13 +2710,13 @@
       "More Options": "المزيد من الخيارات",
       "Click to see this comment": "انقر لرؤية هذا التعليق",
       "Drop Down Form Field": "حقل نموذج منسدل",
-      "Dropdown items": "عناصر منسدلة",
-      "Items in dropdown list": "العناصر في القائمة المنسدلة",
+      "Drop-down items": "العناصر المنسدلة",
+      "Items in drop-down list": "العناصر في القائمة المنسدلة",
       "ADD": "أضف",
       "REMOVE": "إزالة",
       "Field settings": "الإعدادات الميدانية",
       "Tooltip": "تلميح",
-      "Dropdown enabled": "تم تمكين القائمة المنسدلة",
+      "Drop-down enabled": "تم تمكين القائمة المنسدلة",
       "Check Box Form Field": "حقل نموذج خانة الاختيار",
       "Check box size": "حجم خانة الاختيار",
       "Auto": "تلقاءي",
@@ -3880,7 +3880,16 @@
       "linkInsert": "إدراج",
       "linkRemove": "إزالة",
       "linkCancel": "إلغاء",
-      "codeCopyTooltip": "نسخ الرمز"
+      "codeCopyTooltip": "نسخ الرمز",
+      "imagePlaceholder": "أضف صورة",
+      "embedImage": "تضمين الصورة",
+      "tabHeaderUpload": "تحميل",
+      "tabHeaderEmbed": "تضمين الارتباط",
+      "embedPlaceholder": "الصق رابط الصورة...",
+      "imgPlaceholderAriaLabel": "إدراج صورة - اضغط على Enter أو Space لفتح مربع حوار التحميل",
+      "badgeSuccess": "النجاح",
+      "badgeError": "خطأ",
+      "imageUrl": "إدخال عنوان URL للصورة"
     },
     "speech-to-text": {
       "abortedError": "تم إحباط التعرف على الكلام.",
@@ -3895,9 +3904,21 @@
       "stopAriaLabel": "اضغط لإيقاف التحدث وإنهاء النسخ",
       "startTooltipText": "ابدأ بالاستماع",
       "stopTooltipText": "توقف عن الاستماع"
-  },
+    },
     "splitter": {
       "ToggleNavigation": "تبديل التنقل"
+    },
+    "inline-ai-prompt": {
+      "send": "أرسل",
+      "stopResponseText": "توقف عن الرد",
+      "thinkingIndicator": "التفكير",
+      "editingIndicator": "التحرير"
+    },
+    "inline-ai-assist": {
+      "send": "أرسل",
+      "stopResponseText": "توقف عن الرد",
+      "thinkingIndicator": "التفكير",
+      "editingIndicator": "التحرير"
     }
   }
 }

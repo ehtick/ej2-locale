@@ -3822,7 +3822,16 @@
       "linkInsert": "Invoegen",
       "linkRemove": "Verwijderen",
       "linkCancel": "Annuleer",
-      "codeCopyTooltip": "Kopieer code"
+      "codeCopyTooltip": "Kopieer code",
+      "imagePlaceholder": "Voeg een afbeelding toe",
+      "embedImage": "Afbeelding insluiten",
+      "tabHeaderUpload": "Uploaden",
+      "tabHeaderEmbed": "Link insluiten",
+      "embedPlaceholder": "Plak de afbeeldingslink...",
+      "imgPlaceholderAriaLabel": "Afbeelding invoegen - druk op Enter of Spatie om het uploaddialoogvenster te openen",
+      "badgeSuccess": "Succes",
+      "badgeError": "Fout",
+      "imageUrl": "Invoer van afbeeldings-URL"
     },
     "speech-to-text": {
       "abortedError": "Spraakherkenning is afgebroken.",
@@ -3840,6 +3849,18 @@
     },
     "splitter": {
       "ToggleNavigation": "Schakel navigatie in"
+    },
+    "inline-ai-prompt": {
+      "send": "Verzenden",
+      "stopResponseText": "Stop met reageren",
+      "thinkingIndicator": "Denken",
+      "editingIndicator": "Bewerken"
+    },
+    "inline-ai-assist": {
+      "send": "Verzenden",
+      "stopResponseText": "Stop met reageren",
+      "thinkingIndicator": "Denken",
+      "editingIndicator": "Bewerken"
     }
   }
 }

@@ -3817,7 +3817,16 @@
       "linkInsert": "Lisää",
       "linkRemove": "Poista",
       "linkCancel": "Peruuta",
-      "codeCopyTooltip": "Kopioi koodi"
+      "codeCopyTooltip": "Kopioi koodi",
+      "imagePlaceholder": "Lisää kuva",
+      "embedImage": "Upota kuva",
+      "tabHeaderUpload": "Lataa",
+      "tabHeaderEmbed": "Upota linkki",
+      "embedPlaceholder": "Liitä kuvalinkki...",
+      "imgPlaceholderAriaLabel": "Lisää kuva - paina Enter tai Space avataksesi latausikkunan",
+      "badgeSuccess": "Menestystä",
+      "badgeError": "Virhe",
+      "imageUrl": "Kuvan URL-osoitteen syöttö"
     },
     "speech-to-text": {
       "abortedError": "Puheentunnistus keskeytettiin.",
@@ -3835,6 +3844,18 @@
     },
     "splitter": {
       "ToggleNavigation": "Vaihda navigointi"
+    },
+    "inline-ai-prompt": {
+      "send": "Lähetä",
+      "stopResponseText": "Lopeta vastaaminen",
+      "thinkingIndicator": "Ajatteleminen",
+      "editingIndicator": "Muokkaus"
+    },
+    "inline-ai-assist": {
+      "send": "Lähetä",
+      "stopResponseText": "Lopeta vastaaminen",
+      "thinkingIndicator": "Ajatteleminen",
+      "editingIndicator": "Muokkaus"
     }
   }
 }

@@ -3696,7 +3696,16 @@
       "linkInsert": "درج کنید",
       "linkRemove": "حذف کنید",
       "linkCancel": "لغو کنید",
-      "codeCopyTooltip": "کد را کپی کنید"
+      "codeCopyTooltip": "کد را کپی کنید",
+      "imagePlaceholder": "یک تصویر اضافه کنید",
+      "embedImage": "جاسازی تصویر",
+      "tabHeaderUpload": "آپلود کنید",
+      "tabHeaderEmbed": "پیوند را جاسازی کنید",
+      "embedPlaceholder": "لینک تصویر را بچسبانید...",
+      "imgPlaceholderAriaLabel": "درج تصویر - Enter یا Space را فشار دهید تا گفتگوی آپلود باز شود",
+      "badgeSuccess": "موفقیت",
+      "badgeError": "خطا",
+      "imageUrl": "ورودی URL تصویر"
     },
     "speech-to-text": {
       "abortedError": "تشخیص گفتار قطع شد.",
@@ -3714,6 +3723,18 @@
     },
     "splitter": {
       "ToggleNavigation": "ناوبری را تغییر دهید"
+    },
+    "inline-ai-prompt": {
+      "send": "ارسال کنید",
+      "stopResponseText": "پاسخ دادن را متوقف کنید",
+      "thinkingIndicator": "فکر کردن",
+      "editingIndicator": "در حال ویرایش"
+    },
+    "inline-ai-assist": {
+      "send": "ارسال کنید",
+      "stopResponseText": "پاسخ دادن را متوقف کنید",
+      "thinkingIndicator": "فکر کردن",
+      "editingIndicator": "در حال ویرایش"
     }
   }
 }

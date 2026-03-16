@@ -3818,7 +3818,16 @@
       "linkInsert": "הכנס",
       "linkRemove": "הסר",
       "linkCancel": "בטל",
-      "codeCopyTooltip": "העתק קוד"
+      "codeCopyTooltip": "העתק קוד",
+      "imagePlaceholder": "הוסף תמונה",
+      "embedImage": "הטמע תמונה",
+      "tabHeaderUpload": "העלה",
+      "tabHeaderEmbed": "הטמע קישור",
+      "embedPlaceholder": "הדבק את הקישור לתמונה...",
+      "imgPlaceholderAriaLabel": "הוסף תמונה - הקש Enter או רווח כדי לפתוח תיבת דו-שיח להעלאה",
+      "badgeSuccess": "הצלחה",
+      "badgeError": "שגיאה",
+      "imageUrl": "קלט כתובת אתר של תמונה"
     },
     "speech-to-text": {
       "abortedError": "זיהוי הדיבור הופסק.",
@@ -3836,6 +3845,18 @@
     },
     "splitter": {
       "ToggleNavigation": "החלף ניווט"
+    },
+    "inline-ai-prompt": {
+      "send": "שלח",
+      "stopResponseText": "תפסיק להגיב",
+      "thinkingIndicator": "חושבים",
+      "editingIndicator": "עריכה"
+    },
+    "inline-ai-assist": {
+      "send": "שלח",
+      "stopResponseText": "תפסיק להגיב",
+      "thinkingIndicator": "חושבים",
+      "editingIndicator": "עריכה"
     }
   }
 }

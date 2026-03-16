@@ -3818,7 +3818,16 @@
       "linkInsert": "Wstaw",
       "linkRemove": "Usuń",
       "linkCancel": "Anuluj",
-      "codeCopyTooltip": "Skopiuj kod"
+      "codeCopyTooltip": "Skopiuj kod",
+      "imagePlaceholder": "Dodaj obraz",
+      "embedImage": "Osadź obraz",
+      "tabHeaderUpload": "Prześlij",
+      "tabHeaderEmbed": "Umieść link",
+      "embedPlaceholder": "Wklej link do obrazu...",
+      "imgPlaceholderAriaLabel": "Wstaw obraz — naciśnij klawisz Enter lub spację, aby otworzyć okno przesyłania",
+      "badgeSuccess": "Sukces",
+      "badgeError": "Błąd",
+      "imageUrl": "Wprowadź adres URL obrazu"
     },
     "speech-to-text": {
       "abortedError": "Rozpoznawanie mowy zostało przerwane.",
@@ -3836,6 +3845,18 @@
     },
     "splitter": {
       "ToggleNavigation": "Przełącz nawigację"
+    },
+    "inline-ai-prompt": {
+      "send": "Wyślij",
+      "stopResponseText": "Przestań odpowiadać",
+      "thinkingIndicator": "Myślenie",
+      "editingIndicator": "Edytowanie"
+    },
+    "inline-ai-assist": {
+      "send": "Wyślij",
+      "stopResponseText": "Przestań odpowiadać",
+      "thinkingIndicator": "Myślenie",
+      "editingIndicator": "Edytowanie"
     }
   }
 }

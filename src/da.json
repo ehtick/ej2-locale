@@ -3817,7 +3817,16 @@
       "linkInsert": "Indsæt",
       "linkRemove": "Fjern",
       "linkCancel": "Annuller",
-      "codeCopyTooltip": "Kopiér kode"
+      "codeCopyTooltip": "Kopiér kode",
+      "imagePlaceholder": "Tilføj et billede",
+      "embedImage": "Integrer billede",
+      "tabHeaderUpload": "Upload",
+      "tabHeaderEmbed": "Integrer link",
+      "embedPlaceholder": "Indsæt billedlinket...",
+      "imgPlaceholderAriaLabel": "Indsæt billede - tryk på Enter eller Space for at åbne uploaddialogen",
+      "badgeSuccess": "Succes",
+      "badgeError": "Fejl",
+      "imageUrl": "Indtastning af billed-URL"
     },
     "speech-to-text": {
       "abortedError": "Talegenkendelse blev afbrudt.",
@@ -3835,6 +3844,18 @@
     },
     "splitter": {
       "ToggleNavigation": "Slå navigation til/fra"
+    },
+    "inline-ai-prompt": {
+      "send": "Send",
+      "stopResponseText": "Stop med at svare",
+      "thinkingIndicator": "Tænker",
+      "editingIndicator": "Redigering"
+    },
+    "inline-ai-assist": {
+      "send": "Send",
+      "stopResponseText": "Stop med at svare",
+      "thinkingIndicator": "Tænker",
+      "editingIndicator": "Redigering"
     }
   }
 }

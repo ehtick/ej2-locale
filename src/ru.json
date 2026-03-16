@@ -3820,7 +3820,16 @@
       "linkInsert": "Вставить",
       "linkRemove": "Удалить",
       "linkCancel": "Отмена",
-      "codeCopyTooltip": "Скопировать код"
+      "codeCopyTooltip": "Скопировать код",
+      "imagePlaceholder": "Добавить изображение",
+      "embedImage": "Вставить изображение",
+      "tabHeaderUpload": "Загрузить",
+      "tabHeaderEmbed": "Вставить ссылку",
+      "embedPlaceholder": "Вставьте ссылку на изображение...",
+      "imgPlaceholderAriaLabel": "Вставьте изображение — нажмите Enter или пробел, чтобы открыть диалоговое окно загрузки.",
+      "badgeSuccess": "Успех",
+      "badgeError": "Ошибка",
+      "imageUrl": "Ввод URL-адреса изображения"
     },
     "speech-to-text": {
       "abortedError": "Распознавание речи было прервано.",
@@ -3838,6 +3847,18 @@
     },
     "splitter": {
       "ToggleNavigation": "Переключить навигацию"
+    },
+    "inline-ai-prompt": {
+      "send": "Отправить",
+      "stopResponseText": "Хватит отвечать",
+      "thinkingIndicator": "мышление",
+      "editingIndicator": "Редактирование"
+    },
+    "inline-ai-assist": {
+      "send": "Отправить",
+      "stopResponseText": "Хватит отвечать",
+      "thinkingIndicator": "мышление",
+      "editingIndicator": "Редактирование"
     }
   }
 }

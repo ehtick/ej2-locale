@@ -2710,13 +2710,13 @@
       "More Options": "更多的选择",
       "Click to see this comment": "点击查看此评论",
       "Drop Down Form Field": "下拉表单域",
-      "Dropdown items": "下拉项",
-      "Items in dropdown list": "下拉列表中的项目",
+      "Drop-down items": "下拉项目",
+      "Items in drop-down list": "下拉列表中的项目",
       "ADD": "添加",
       "REMOVE": "消除",
       "Field settings": "字段设置",
       "Tooltip": "工具提示",
-      "Dropdown enabled": "下拉已启用",
+      "Drop-down enabled": "下拉启用",
       "Check Box Form Field": "复选框表单域",
       "Check box size": "复选框大小",
       "Auto": "汽车",
@@ -3881,7 +3881,16 @@
       "linkInsert": "插入",
       "linkRemove": "删除",
       "linkCancel": "取消",
-      "codeCopyTooltip": "复制代码"
+      "codeCopyTooltip": "复制代码",
+      "imagePlaceholder": "添加图像",
+      "embedImage": "嵌入图像",
+      "tabHeaderUpload": "上传",
+      "tabHeaderEmbed": "嵌入链接",
+      "embedPlaceholder": "粘贴图片链接...",
+      "imgPlaceholderAriaLabel": "插入图像 - 按 Enter 或 Space 打开上传对话框",
+      "badgeSuccess": "成功",
+      "badgeError": "错误",
+      "imageUrl": "图片网址输入"
     },
     "speech-to-text": {
       "abortedError": "语音识别已中止。",
@@ -3899,6 +3908,18 @@
     },
     "splitter": {
       "ToggleNavigation": "切换导航"
+    },
+    "inline-ai-prompt": {
+      "send": "发送",
+      "stopResponseText": "停止回应",
+      "thinkingIndicator": "思考",
+      "editingIndicator": "编辑"
+    },
+    "inline-ai-assist": {
+      "send": "发送",
+      "stopResponseText": "停止回应",
+      "thinkingIndicator": "思考",
+      "editingIndicator": "编辑"
     }
   }
 }

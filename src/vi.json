@@ -3818,7 +3818,16 @@
       "linkInsert": "Chèn",
       "linkRemove": "Xóa",
       "linkCancel": "Hủy bỏ",
-      "codeCopyTooltip": "Sao chép mã"
+      "codeCopyTooltip": "Sao chép mã",
+      "imagePlaceholder": "Thêm một hình ảnh",
+      "embedImage": "Nhúng hình ảnh",
+      "tabHeaderUpload": "Tải lên",
+      "tabHeaderEmbed": "Nhúng liên kết",
+      "embedPlaceholder": "Dán liên kết hình ảnh...",
+      "imgPlaceholderAriaLabel": "Chèn hình ảnh - nhấn Enter hoặc Space để mở hộp thoại tải lên",
+      "badgeSuccess": "thành công",
+      "badgeError": "Lỗi",
+      "imageUrl": "Nhập URL hình ảnh"
     },
     "speech-to-text": {
       "abortedError": "Nhận dạng giọng nói đã bị hủy bỏ.",
@@ -3836,6 +3845,18 @@
     },
     "splitter": {
       "ToggleNavigation": "Chuyển đổi điều hướng"
+    },
+    "inline-ai-prompt": {
+      "send": "Gửi",
+      "stopResponseText": "Ngừng phản hồi",
+      "thinkingIndicator": "suy nghĩ",
+      "editingIndicator": "Chỉnh sửa"
+    },
+    "inline-ai-assist": {
+      "send": "Gửi",
+      "stopResponseText": "Ngừng phản hồi",
+      "thinkingIndicator": "suy nghĩ",
+      "editingIndicator": "Chỉnh sửa"
     }
   }
 }

@@ -3820,7 +3820,16 @@
       "linkInsert": "Insert",
       "linkRemove": "Remove",
       "linkCancel": "Cancel",
-      "codeCopyTooltip": "Copy code"
+      "codeCopyTooltip": "Copy code",
+      "imagePlaceholder": "Add an image",
+      "embedImage": "Embed image",
+      "tabHeaderUpload": "Upload",
+      "tabHeaderEmbed": "Embed link",
+      "embedPlaceholder": "Paste the image link...",
+      "imgPlaceholderAriaLabel": "Insert image - press Enter or Space to open upload dialog",
+      "badgeSuccess": "Success",
+      "badgeError": "Error",
+      "imageUrl": "Image URL input"
     },
     "speech-to-text": {
       "abortedError": "Speech recognition was aborted.",
@@ -3838,6 +3847,18 @@
     },
     "splitter": {
       "ToggleNavigation": "Toggle Navigation"
+    },
+    "inline-ai-prompt": {
+      "send": "Send",
+      "stopResponseText": "Stop Responding",
+      "thinkingIndicator": "Thinking",
+      "editingIndicator": "Editing"
+    },
+    "inline-ai-assist": {
+      "send": "Send",
+      "stopResponseText": "Stop Responding",
+      "thinkingIndicator": "Thinking",
+      "editingIndicator": "Editing"
     }
   }
 }
