@@ -775,6 +775,13 @@
       "PreviousNote": "Fyrri athugasemd",
       "NextNote": "Næsta athugasemd",
       "Review": "Upprifjun",
+      "AIAssistButton": "Upprifjun",
+      "AIAssistHeader": "AI aðstoð",
+      "AIAssistBannerHeader": "AI aðstoð",
+      "AIAssistBannerContent": "AI aðstoð",
+      "AIAssistInputPlaceHolder": "Hvernig get ég hjálpað þér með þetta blað?",
+      "Subscript": "Sláðu inn beiðni þína um aðstoð...",
+      "Superscript": "Áskrift",
       "Print": "Prenta",
       "CalcOptions": "Útreikningsvalkostir",
       "CalcOptionsTip": "Veldu til að reikna formúlur sjálfkrafa eða handvirkt",
@@ -830,9 +837,6 @@
       "Descending": "Lækkandi",
       "None": "Enginn",
       "View-LargeIcons": "Stór tákn",
-      "AddNote": "Bæta við athugasemd",
-      "EditNote": "Breyta athugasemd",
-      "DeleteNote": "Eyða athugasemd",
       "View-Details": "Upplýsingar",
       "Search": "Leita",
       "Button-Ok": "Allt í lagi",
@@ -882,7 +886,10 @@
       "Network-Error": "NetworkError: Mistókst að senda á XMLHTTPRequest: Mistókst að hlaða",
       "Server-Error": "ServerVilla: Ógilt svar frá",
       "File": "Skrá",
-      "Folder": "Mappa"
+      "Folder": "Mappa",
+      "AddNote": "Bæta við athugasemd",
+      "EditNote": "Breyta athugasemd",
+      "DeleteNote": "Eyða athugasemd"
     },
     "calendar": {
       "today": "Í dag"
@@ -1674,6 +1681,8 @@
       "LessThanOrEqualTo": "Minna en eða jafnt",
       "Between": "Milli",
       "NotBetween": "Ekki á milli",
+      "Top": "Ekki á milli",
+      "Bottom": "Efst",
       "And": "og",
       "Sum": "Summa",
       "Count": "Telja",
@@ -1684,6 +1693,7 @@
       "SampleVar": "Sýnishorn Var",
       "PopulationVar": "Íbúafjöldi Var",
       "RunningTotals": "Heildartölur",
+      "PercentageOfRunningTotals": "Heildartölur",
       "Max": "Hámark",
       "Index": "Vísitala",
       "SampleStDev": "Sýnishorn StDev",
@@ -1877,7 +1887,8 @@
       "subTotalPosition": "Staða undirsamtölur",
       "auto": "Sjálfvirk",
       "loading": "Hleður...",
-      "add": "Bæta við"
+      "add": "Bæta við",
+      "addCurrentSelection": "Bæta við"
     },
     "pivotfieldlist": {
       "staticFieldList": "Pivot Field List",
@@ -1969,6 +1980,7 @@
       "SampleVar": "Sýnishorn Var",
       "PopulationVar": "Íbúafjöldi Var",
       "RunningTotals": "Heildartölur",
+      "PercentageOfRunningTotals": "Running Totals",
       "DifferenceFrom": "Mismunur frá",
       "PercentageOfDifferenceFrom": "% af mismun frá",
       "PercentageOfGrandTotal": "% af heildartölu",
@@ -2031,7 +2043,8 @@
       "no": "Nei",
       "None": "Enginn",
       "qtr": "Qtr",
-      "grandTotal": "Grand Total"
+      "grandTotal": "Grand Total",
+      "addCurrentSelection": "Grand Total"
     },
     "pdfviewer": {
       "PdfViewer": "PDF skoðari",
@@ -2491,7 +2504,6 @@
       "Your permissions": "Heimildir þínar",
       "Protected Document": "Þetta skjal er varið gegn óviljandi breytingum.",
       "FormFieldsOnly": "Þú getur aðeins fyllt út eyðublöð á þessu svæði.",
-      "Unprotect Document": "Afvernd skjal",
       "CommentsOnly": "Þú getur aðeins sett inn athugasemdir á þetta svæði.",
       "ReadOnlyProtection": "Þú getur breytt á þessu svæði.",
       "Stop Protection": "Stöðva vernd",
@@ -2718,6 +2730,7 @@
       "Picture": "Mynd",
       "Choose an item": "Veldu hlut",
       "DropDownLimitWarning": "You can have no more than 25 items in your drop-down list box.",
+      "Unprotect Document": "Afvernd skjal",
       "Un-posted comments": "Óbirtar athugasemdir",
       "Discard Comment": "Bætt við athugasemdum ekki birtar. Ef þú heldur áfram verður athugasemdinni hent.",
       "Paste CheckBox Content Dialog": "Ekki sýna aftur",
@@ -3603,6 +3616,8 @@
       "fileCountFailure": "Upphleðsluhámarki náð: Hámarks {0} skrár leyfðar. Fjarlægðu auka skrár til að halda áfram að hlaða upp",
       "send": "Senda",
       "attachments": "Hengja skrá",
+      "startTooltipText": "Byrjaðu að hlusta",
+      "stopTooltipText": "Hættu að hlusta",
       "clear": "Hreinsa"
     },
     "chat-ui": {
@@ -3664,7 +3679,20 @@
       "imgPlaceholderAriaLabel": "Setja inn mynd - ýttu á Enter eða bil til að opna upphleðslugluggann",
       "badgeSuccess": "Árangur",
       "badgeError": "Villa",
-      "imageUrl": "Inntak myndslóðar"
+      "imageUrl": "Inntak myndslóðar",
+      "tableInsert": "Settu inn",
+      "tableDelete": "Eyða",
+      "insertColumnLeft": "1 dálkur til vinstri",
+      "insertColumnRight": "1 dálkur til hægri",
+      "insertRowAbove": "1 röð fyrir ofan",
+      "insertRowBelow": "1 röð fyrir neðan",
+      "deleteRow": "Röð",
+      "deleteColumn": "Dálkur",
+      "deleteTable": "Tafla",
+      "editLink": "Breyta hlekk",
+      "copyLink": "Afritaðu tengil",
+      "openLink": "Opna tengil",
+      "removeLink": "Fjarlægja tengil"
     },
     "speech-to-text": {
       "abortedError": "Talgreining var hætt.",
