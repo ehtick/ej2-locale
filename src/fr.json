@@ -3966,6 +3966,9 @@
     "ribbon": {
       "groupOverflow": "Plus d'options de groupe",
       "overflow": "Plus d'options"
+    },
+    "form-renderer": {
+      "unsupportedComponent": "Type de composant non pris en charge"
     }
   }
 }

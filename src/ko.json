@@ -3904,6 +3904,9 @@
     "ribbon": {
       "groupOverflow": "더 많은 그룹 옵션",
       "overflow": "추가 옵션"
+    },
+    "form-renderer": {
+      "unsupportedComponent": "지원되지 않는 구성 요소 유형"
     }
   }
 }

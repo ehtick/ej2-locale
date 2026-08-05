@@ -3901,6 +3901,9 @@
     "ribbon": {
       "groupOverflow": "Ďalšie možnosti skupiny",
       "overflow": "Ďalšie možnosti"
+    },
+    "form-renderer": {
+      "unsupportedComponent": "Nepodporovaný typ komponentu"
     }
   }
 }

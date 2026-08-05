@@ -3901,6 +3901,9 @@
     "ribbon": {
       "groupOverflow": "Više opcija grupe",
       "overflow": "Više opcija"
+    },
+    "form-renderer": {
+      "unsupportedComponent": "Nepodržana vrsta komponente"
     }
   }
 }

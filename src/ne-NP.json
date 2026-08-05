@@ -3903,6 +3903,9 @@
     "ribbon": {
       "groupOverflow": "थप समूह विकल्पहरू",
       "overflow": "थप विकल्पहरू"
+    },
+    "form-renderer": {
+      "unsupportedComponent": "असमर्थित कम्पोनेन्ट प्रकार"
     }
   }
 }

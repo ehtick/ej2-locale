@@ -3726,6 +3726,9 @@
     "ribbon": {
       "groupOverflow": "Fleiri hópvalkostir",
       "overflow": "Fleiri valkostir"
+    },
+    "form-renderer": {
+      "unsupportedComponent": "Óstudd tegund íhluta"
     }
   }
 }

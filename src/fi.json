@@ -3900,6 +3900,9 @@
     "ribbon": {
       "groupOverflow": "Lisää ryhmävaihtoehtoja",
       "overflow": "Lisää vaihtoehtoja"
+    },
+    "form-renderer": {
+      "unsupportedComponent": "Komponenttityyppiä ei tueta"
     }
   }
 }

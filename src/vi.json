@@ -3901,6 +3901,9 @@
     "ribbon": {
       "groupOverflow": "Tùy chọn nhóm khác",
       "overflow": "Tùy chọn khác"
+    },
+    "form-renderer": {
+      "unsupportedComponent": "Loại thành phần không được hỗ trợ"
     }
   }
 }
