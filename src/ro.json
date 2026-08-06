@@ -3904,6 +3904,9 @@
     "ribbon": {
       "groupOverflow": "Mai multe opțiuni de grup",
       "overflow": "Mai multe opțiuni"
+    },
+    "form-renderer": {
+      "unsupportedComponent": "Tip de componentă neacceptat"
     }
   }
 }

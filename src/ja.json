@@ -3901,6 +3901,9 @@
     "ribbon": {
       "groupOverflow": "その他のグループオプション",
       "overflow": "その他のオプション"
+    },
+    "form-renderer": {
+      "unsupportedComponent": "サポートされていないコンポーネントの種類"
     }
   }
 }

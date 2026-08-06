@@ -3903,6 +3903,9 @@
     "ribbon": {
       "groupOverflow": "Дополнительные параметры группы",
       "overflow": "Дополнительные параметры"
+    },
+    "form-renderer": {
+      "unsupportedComponent": "Неподдерживаемый тип компонента"
     }
   }
 }

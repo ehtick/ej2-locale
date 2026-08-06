@@ -3963,6 +3963,9 @@
     "ribbon": {
       "groupOverflow": "المزيد من خيارات المجموعة",
       "overflow": "المزيد من الخيارات"
+    },
+    "form-renderer": {
+      "unsupportedComponent": "نوع المكون غير معتمد"
     }
   }
 }

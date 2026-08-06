@@ -3780,6 +3780,9 @@
     "ribbon": {
       "groupOverflow": "گزینه های گروه بیشتر",
       "overflow": "گزینه های بیشتر"
+    },
+    "form-renderer": {
+      "unsupportedComponent": "نوع مؤلفه پشتیبانی نشده"
     }
   }
 }

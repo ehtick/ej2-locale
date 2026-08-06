@@ -3901,6 +3901,9 @@
     "ribbon": {
       "groupOverflow": "Opsi Grup Lainnya",
       "overflow": "Opsi Lainnya"
+    },
+    "form-renderer": {
+      "unsupportedComponent": "Jenis Komponen tidak didukung"
     }
   }
 }

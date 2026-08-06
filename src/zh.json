@@ -3965,6 +3965,9 @@
     "ribbon": {
       "groupOverflow": "更多团体选项",
       "overflow": "更多选择"
+    },
+    "form-renderer": {
+      "unsupportedComponent": "不支持的组件类型"
     }
   }
 }

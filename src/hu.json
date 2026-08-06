@@ -3901,6 +3901,9 @@
     "ribbon": {
       "groupOverflow": "További csoportbeállítások",
       "overflow": "További lehetőségek"
+    },
+    "form-renderer": {
+      "unsupportedComponent": "Nem támogatott komponenstípus"
     }
   }
 }

@@ -3901,6 +3901,9 @@
     "ribbon": {
       "groupOverflow": "Daha Fazla Grup Seçeneği",
       "overflow": "Daha Fazla Seçenek"
+    },
+    "form-renderer": {
+      "unsupportedComponent": "Desteklenmeyen Bileşen türü"
     }
   }
 }

@@ -3902,6 +3902,9 @@
     "ribbon": {
       "groupOverflow": "Fler gruppalternativ",
       "overflow": "Fler alternativ"
+    },
+    "form-renderer": {
+      "unsupportedComponent": "Komponenttyp som inte stöds"
     }
   }
 }

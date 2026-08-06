@@ -3903,6 +3903,9 @@
     "ribbon": {
       "groupOverflow": "Más opciones de grupo",
       "overflow": "Más opciones"
+    },
+    "form-renderer": {
+      "unsupportedComponent": "Tipo de componente no admitido"
     }
   }
 }
